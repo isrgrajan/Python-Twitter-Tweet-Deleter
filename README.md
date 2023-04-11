@@ -1,4 +1,4 @@
-# Python Twitter Tweet Deleter Script
+# Python Twitter Tweet Deleter Script 2023
 This project contains a Python script for deleting tweets from a Twitter account using the Tweepy library.
 
 ## Requirements
@@ -37,3 +37,7 @@ The script includes the following functions:
 
 ## Author
 This script was written by Isrg Rajan.
+
+## Release Information
+* Released on: 11-04-2023
+* Tested on: 22:00 IST 11-04-2023
