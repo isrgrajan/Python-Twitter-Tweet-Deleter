@@ -1,0 +1,11 @@
+{
+  "name": "isrgrajan/python-twitter-tweet-deleter",
+  "description": "Python Twitter Tweet Deleter Script contains a Python script for deleting tweets from a Twitter account using the Tweepy library.",
+  "type": "project",
+  "require": {
+    "tweepy/tweepy": "^3.12"
+  },
+  "scripts": {
+    "start": "python main.py"
+  }
+}
